@@ -1,21 +1,24 @@
-# Personal Portfolio (HTML + CSS)
+# Personal Portfolio Website
 
-This is a small, editable portfolio starter created with plain HTML and CSS. Replace the placeholder text, images, and `resume/resume.pdf` with your own content.
+**Web Development Internship – CodSoft**  
+**Task 1 | January 26**
 
-Files created:
-- `index.html` — main page with header, about, skills, projects, resume download, contact, footer
-- `css/styles.css` — styles for layout and components
-- `images/` — placeholder SVG images for profile and projects
-- `resume/resume.pdf` — tiny placeholder PDF; replace with your real resume
+This is a personal portfolio website created using **HTML and CSS** as part of the CodSoft Web Development Internship. The project focuses on building a simple, structured, and beginner-friendly portfolio.
 
-How to view locally:
-1. Open `index.html` in a browser, or
-2. Serve the folder with a simple server (Python example shown):
+## Sections
+- Header (Name / Tagline)
+- About
+- Skills
+- Projects
+- Resume (PDF)
+- Contact
+- Footer
 
-```powershell
-# from repository root
-python -m http.server 8000
-# then open http://localhost:8000 in your browser
-```
+## Technologies Used
+- HTML5
+- CSS3
 
-Replace content and images, then enjoy your portfolio.
+## Objective
+To practice front-end web development fundamentals and showcase personal skills and projects.
+
+
